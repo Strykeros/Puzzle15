@@ -16,6 +16,7 @@ namespace Puzzle15
         {
             InitializeComponent();
             InitializePuzzleArea();
+            InitializeButtons();
         }
 
         private void InitializePuzzleArea()
